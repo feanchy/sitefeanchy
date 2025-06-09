@@ -1,0 +1,17 @@
+p {
+    color: red;
+}
+
+.eblan {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.orag {
+    background: -webkit-linear-gradient(90deg, #f9f5c3,#fd5d5d,#757575);
+    color:rgb(0, 0, 0);
+}
+
+body {
+    background: -webkit-linear-gradient(90deg, #f9f5c3,#fd5d5d,#757575);
+    background: linear-gradient(90deg, #f9f5c3,#fd5d5d,#757575);
+}
